@@ -1,0 +1,17 @@
+//
+//  AppDelegate.h
+//  UIMenuItem
+//
+//  Created by HHL on 16/6/27.
+//  Copyright © 2016年 HHL. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface AppDelegate : UIResponder <UIApplicationDelegate>
+
+@property (strong, nonatomic) UIWindow *window;
+
+
+@end
+
